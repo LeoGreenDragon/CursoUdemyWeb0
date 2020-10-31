@@ -1,0 +1,22 @@
+Body {
+    font-family: 'Poppins', sans-serif;    
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    list-style: none;
+    margin-right: 25px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+}
